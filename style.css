@@ -1,0 +1,36 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.contenier{
+    width: 360px;
+}
+#input{
+    width: 300px;
+    height:46px;
+    outline: none;
+  vertical-align:middle;
+  font-size: 25px;
+  border: 1px solid black;
+}
+
+#button{
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    font-size: 30px;
+    border: 1px solid black;
+}
+
+#todo{
+    margin-top: 25px;
+}
+
+.pStyle{
+    margin: 0;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
